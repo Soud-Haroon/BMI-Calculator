@@ -5,7 +5,7 @@
 
 # This a Clone Project
 
-Which is Recoded in new version By me with Lastest version and plugins.
+This project is Recoded in new version Tools with Latest version and plugins support for general Understanding.
 
 ## Our Goal
 
